@@ -1,4 +1,4 @@
-![Picture8](https://github.com/user-attachments/assets/826a719e-3c95-4bd6-a8f2-5338592ad20b)# Interedu
+# Interedu
 Ontology in domain of Education - Knowledge representation of Intermediate Education in Pakistan-Punjab
 
 # Scope
