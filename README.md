@@ -4,8 +4,8 @@ Ontology in domain of Education - Knowledge representation of Intermediate Educa
 # Scope
 
 Intermediate Education ontology is specific to the Intermediate level (11th and 12th classes). The
-ontology includes knowledge related to Intermediate courses only. It does not include knowledge
-about other levels’ (Primary, Secondary, A/O Levels, and Higher). It limits to Intermediate Education
+ontology includes knowledge related to intermediate courses only. It does not include knowledge
+about other levels’ (Primary, Secondary, A/O Levels, and Higher). It limits to intermediate education
 in the Punjab province of Pakistan (students under BISE-Punjab). Does not include federal boards.
 ![Picture1](https://github.com/user-attachments/assets/0cfd617e-4107-419c-bc4e-ab90dda9918b)
 
