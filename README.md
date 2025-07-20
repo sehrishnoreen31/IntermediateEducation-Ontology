@@ -15,8 +15,8 @@ in the Punjab province of Pakistan (students under BISE-Punjab). Does not includ
 ![Picture2](https://github.com/user-attachments/assets/2dded240-a5df-4394-88d9-875dbf27fb36)
 
 # Methodology
-![Picture4](https://github.com/user-attachments/assets/737caadd-ffdc-4372-8e08-954ca8cf0e54)
-![Picture5](https://github.com/user-attachments/assets/ff0d0f9c-66c9-4736-9114-f8df0287550e)
+
+<img width="1920" height="1080" alt="methodology" src="https://github.com/user-attachments/assets/bcaaaf1a-610f-4384-a76c-f06a29aef48e" />
 
 # Classes
 ![Picture6](https://github.com/user-attachments/assets/8d7f1153-83cf-4986-8fab-e793b69a678f)
