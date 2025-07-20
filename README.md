@@ -7,6 +7,7 @@ Intermediate Education ontology is specific to the Intermediate level (11th and 
 ontology includes knowledge related to intermediate courses only. It does not include knowledge
 about other levels’ (Primary, Secondary, A/O Levels, and Higher). It limits to intermediate education
 in the Punjab province of Pakistan (students under BISE-Punjab). Does not include federal boards.
+
 ![Picture1](https://github.com/user-attachments/assets/0cfd617e-4107-419c-bc4e-ab90dda9918b)
 
 # Conceptual Map
@@ -27,4 +28,5 @@ in the Punjab province of Pakistan (students under BISE-Punjab). Does not includ
 
 # Data Properties
 ![Picture8](https://github.com/user-attachments/assets/211441a9-3011-4856-8249-bdb2cd580860)
+
 
