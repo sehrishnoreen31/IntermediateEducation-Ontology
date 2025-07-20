@@ -8,7 +8,7 @@ ontology includes knowledge related to intermediate courses only. It does not in
 about other levels’ (Primary, Secondary, A/O Levels, and Higher). It limits to intermediate education
 in the Punjab province of Pakistan (students under BISE-Punjab). Does not include federal boards.
 
-![Picture1](https://github.com/user-attachments/assets/0cfd617e-4107-419c-bc4e-ab90dda9918b)
+<img width="1920" height="1080" alt="scope" src="https://github.com/user-attachments/assets/1f2cc86b-e847-42a9-8d3f-6b07aa1eae79" />
 
 # Conceptual Map
 
