@@ -11,8 +11,8 @@ in the Punjab province of Pakistan (students under BISE-Punjab). Does not includ
 <img width="1920" height="1080" alt="scope" src="https://github.com/user-attachments/assets/1f2cc86b-e847-42a9-8d3f-6b07aa1eae79" />
 
 # Conceptual Map
+<img width="2038" height="1080" alt="conceptual-map" src="https://github.com/user-attachments/assets/ad3cc2b0-c0ff-4ba5-99c8-0771ff42e7c4" />
 
-![Picture2](https://github.com/user-attachments/assets/2dded240-a5df-4394-88d9-875dbf27fb36)
 
 # Methodology
 
